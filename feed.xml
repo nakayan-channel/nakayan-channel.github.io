@@ -3,30 +3,10 @@
     <title>なかやん｜NAKAYAN</title>
     <link href="https://www.naka-chan.net/feed.xml" rel="self" />
     <link href="https://www.naka-chan.net" />
-    <updated>2025-08-17T17:45:06+09:00</updated>
+    <updated>1970-01-01T09:00:00+09:00</updated>
     <author>
         <name>なかやん</name>
     </author>
     <id>https://www.naka-chan.net</id>
 
-    <entry>
-        <title>123</title>
-        <author>
-            <name>なかやん</name>
-        </author>
-        <link href="https://www.naka-chan.net/123.html"/>
-        <id>https://www.naka-chan.net/123.html</id>
-
-        <updated>2025-08-17T17:45:06+09:00</updated>
-            <summary>
-                <![CDATA[
-                    123
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>123</p>
-            ]]>
-        </content>
-    </entry>
 </feed>
